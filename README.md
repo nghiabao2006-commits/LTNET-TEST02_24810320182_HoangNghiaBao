@@ -51,7 +51,7 @@ TextBox.*
 CSV.*
 
 ![Giao diện Bài 2 và Xuất file CSV](docs/bai2xuatfile.PNG)
-*Mô tả: Xuất file CSV*
+*Mô tả: Xuất file CSV.*
 ---
 
 ### 3. Bài 3: HỆ THỐNG MDI QUẢN LÝ BỆNH VIỆN & TRUY XUẤT HỒ SƠ BỆNH ÁN
@@ -59,7 +59,7 @@ CSV.*
 `async/await` chống treo UI, Safe Cross-Thread bằng `this.Invoke()`.
 * **Hình ảnh minh họa Giao diện:**
 
-![Giao diện danh mục bác sĩ và lịch trực](docs/bai3giaodiendanhmucvabacsi.PNG)
+![Giao diện danh mục bác sĩ và lịch trực](docs/bai3giaodiendanhmucbacsivalichtruc.PNG)
 
 ![Giao diện danh mục khoa\phòng](docs/bai3giaodiendanhmuckhoaphong.PNG)
 
