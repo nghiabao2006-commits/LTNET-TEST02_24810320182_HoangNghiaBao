@@ -46,14 +46,15 @@ TextBox.*
 `OpenFileDialog` (Đọc/Ghi file CSV), Cập nhật `StatusStrip` theo thời gian thực.
 * **Hình ảnh minh họa Giao diện:**
 
-![Giao diện Bài 2 và Load Ảnh]( <img width="1183" height="772" alt="bai2giaodien" src="https://github.com/user-attachments/assets/c4773dfa-0c36-4ab0-974b-d720dc0d858a" />
-)
+![Giao diện Bài 2 và Load Ảnh](docs/bai2thaotacanhbia.PNG)
 *Mô tả: Chọn ảnh bìa sách từ đĩa cứng hiển thị lên PictureBox và nạp dữ liệu từ file
 CSV.*
 
+![Giao diện Bài 2 và Xuất file CSV](docs/bai2xuatfile.PNG)
+*Mô tả: Xuất file CSV*
 ---
 
-### 3. Bài 3: Kiến trúc MDI & Xử lý Bất đồng bộ (Async/Await)
+### 3. Bài 3: HỆ THỐNG MDI QUẢN LÝ BỆNH VIỆN & TRUY XUẤT HỒ SƠ BỆNH ÁN
 * **Kỹ thuật áp dụng:** MDI Container, Quản lý chống mở trùng Form con,
 `async/await` chống treo UI, Safe Cross-Thread bằng `this.Invoke()`.
 * **Hình ảnh minh họa Giao diện:**
