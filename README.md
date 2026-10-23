@@ -59,13 +59,18 @@ CSV.*
 `async/await` chống treo UI, Safe Cross-Thread bằng `this.Invoke()`.
 * **Hình ảnh minh họa Giao diện:**
 
+![Giao diện danh mục bác sĩ và lịch trực](docs/bai3giaodiendanhmucvabacsi.PNG)
+
+![Giao diện danh mục khoa\phòng](docs/bai3giaodiendanhmuckhoaphong.PNG)
+
+![Giao diện hồ sơ bênh nhân](docs/bai3giaodienhosobenhnhan.PNG)
+
 ![Giao diện Khung MDI](docs/bai3xeptang.PNG)
 *Mô tả: Khung Form cha MDI điều khiển mở các Form con xếp tầng.*
 
 ### 4. Bài 4: BẢNG ĐIỀU KHIỂN THỐNG KÊ DOANH THU MULTI- THREADING (ASYNC/AWAIT & KHÔNG KHÓA UI)
 
 ![Giao diện thống kê doanh thu](docs/bai4giaodienthongkedoanhthu.PNG)
-
 
 ![Giao diện huỷ thao tác](docs/bai4huythaotac.PNG)
 
