@@ -59,22 +59,30 @@ CSV.*
 `async/await` chống treo UI, Safe Cross-Thread bằng `this.Invoke()`.
 * **Hình ảnh minh họa Giao diện:**
 
-![Giao diện Khung MDI](docs/bai3_mdi.png)
+![Giao diện Khung MDI](docs/bai3xeptang.PNG)
 *Mô tả: Khung Form cha MDI điều khiển mở các Form con xếp tầng.*
 
-![Minh họa Async không treo UI](docs/bai3_async.png)
-*Mô tả: Tiến trình ngầm chạy tải dữ liệu nặng 5 giây, giao diện vẫn kéo rê và thao tác
-bình thường.*
+### 4. Bài 4: BẢNG ĐIỀU KHIỂN THỐNG KÊ DOANH THU MULTI- THREADING (ASYNC/AWAIT & KHÔNG KHÓA UI)
+
+![Giao diện thống kê doanh thu](docs/bai4giaodienthongkedoanhthu.PNG)
+
+
+![Giao diện huỷ thao tác](docs/bai4huythaotac.PNG)
 
 ---
 
+### 5. Bài 5: MÔ PHỎNG GIÁM SÁT TỶ GIÁ TÀI CHÍNH THỜI GIAN THỰC (CROSS-THREAD SAFETY & PROCESSING)
+
+![Giao diện giám sát BTC](docs/bai5giamsatbtc.PNG)
+
+![Giao diện tạm dừng giám sát](docs/bai5giaodientamdung.PNG)
+
+---
 ## IV. HƯỚNG DẪN CÀI ĐẶT & CHẠY DỰ ÁN
 1. Clone Repository về máy:
 ```bash
 
-git clone [https://github.com/nguyenvana/LTNET-
-TEST02_22110001_NguyenVanA.git](https://github.com/nguyenvana/LTNET-
-TEST02_22110001_NguyenVanA.git)
+git clone [https://github.com/nghiabao2006-commits/LTNET-TEST02_24810320182_HoangNghiaBao](https://github.com/nghiabao2006-commits/LTNET-TEST02_24810320182_HoangNghiaBao)
 
 2. Mở file solution src/WinFormsAppSolution.sln bằng Visual Studio 2022.
 3. Bấm F5 hoặc chọn Start để biên dịch và chạy chương trình.
