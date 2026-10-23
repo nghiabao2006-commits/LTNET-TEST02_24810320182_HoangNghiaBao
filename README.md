@@ -30,12 +30,12 @@
 false`), Data Binding 2 chiều với `BindingSource`, Validation với `ErrorProvider`.
 * **Hình ảnh minh họa Giao diện:**
 
-![Giao diện chính Bài 1](docs/bai1giaodien.png)
+![Giao diện chính Bài 1](docs/bai1giaodien.PNG)
 
 *Mô tả: Giao diện chính hiển thị DataGridView và đồng bộ dữ liệu 2 chiều lên các
 TextBox.*
 
-![Bắt lỗi Validation Bài 1](docs/bai1valid.png)
+![Bắt lỗi Validation Bài 1](docs/bai1valid.PNG)
 
 *Mô tả: Kiểm tra hợp lệ dữ liệu nhập vào bằng ErrorProvider khi nhấn Thêm mới.*
 
