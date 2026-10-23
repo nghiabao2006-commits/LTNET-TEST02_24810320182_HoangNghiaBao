@@ -60,10 +60,13 @@ CSV.*
 * **Hình ảnh minh họa Giao diện:**
 
 ![Giao diện danh mục bác sĩ và lịch trực](docs/bai3giaodiendanhmucbacsivalichtruc.PNG)
+*Mô tả: Giao diện danh mục bác sĩ và lịch trực.*
 
 ![Giao diện danh mục khoa\phòng](docs/bai3giaodiendanhmuckhoaphong.PNG)
+*Mô tả: Giao diện danh mục khoa\phòng.*
 
 ![Giao diện hồ sơ bênh nhân](docs/bai3giaodienhosobenhnhan.PNG)
+*Mô tả: Giao diện hồ sơ bênh nhân.*
 
 ![Giao diện Khung MDI](docs/bai3xeptang.PNG)
 *Mô tả: Khung Form cha MDI điều khiển mở các Form con xếp tầng.*
@@ -71,16 +74,20 @@ CSV.*
 ### 4. Bài 4: BẢNG ĐIỀU KHIỂN THỐNG KÊ DOANH THU MULTI- THREADING (ASYNC/AWAIT & KHÔNG KHÓA UI)
 
 ![Giao diện thống kê doanh thu](docs/bai4giaodienthongkedoanhthu.PNG)
+*Mô tả: Giao diện thống kê doanh thu.*
 
 ![Giao diện huỷ thao tác](docs/bai4huythaotac.PNG)
+*Mô tả: Giao diện huỷ thao tác.*
 
 ---
 
 ### 5. Bài 5: MÔ PHỎNG GIÁM SÁT TỶ GIÁ TÀI CHÍNH THỜI GIAN THỰC (CROSS-THREAD SAFETY & PROCESSING)
 
 ![Giao diện giám sát BTC](docs/bai5giamsatbtc.PNG)
+*Mô tả: Giao diện giám sát BTC.*
 
 ![Giao diện tạm dừng giám sát](docs/bai5giaodientamdung.PNG)
+*Mô tả: Giao diện tạm dừng giám sát.*
 
 ---
 ## IV. HƯỚNG DẪN CÀI ĐẶT & CHẠY DỰ ÁN
