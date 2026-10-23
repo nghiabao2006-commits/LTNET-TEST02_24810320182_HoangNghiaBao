@@ -4,9 +4,9 @@
 
 * **Họ và tên:** Hoàng Nghĩa Bảo
 * **Mã số sinh viên:** 24810320182
-* **Lớp học phần:** Lập trình .NET - Mã học phàn: 0101004755
+* **Lớp học phần:** Lập trình .NET - Mã học phần: 0101004755
 
-* **Link Repository:** [https://github.com/nghiabao2006-commits/LTNET-TEST02_BAI01_24810320182_HoangNghiaBao](https://github.com/nghiabao2006-commits/LTNET-TEST02_BAI01_24810320182_HoangNghiaBao)
+* **Link Repository:** [https://github.com/nghiabao2006-commits/LTNET-TEST02_24810320182_HoangNghiaBao](https://github.com/nghiabao2006-commits/LTNET-TEST02_24810320182_HoangNghiaBao)
 
 ---
 
@@ -14,11 +14,11 @@
 
 | Bài tập | Tiêu đề bài tập | Trạng thái | Mức độ hoàn thành (%) |
 | :---: | :--- | :---: | :---: |
-| **Bài 1** | Quản lý Dịch vụ Phòng Gym & Hội viên | Hoàn thành | 100% |
-| **Bài 2** | Báo cáo & Lưu trữ Tài liệu Nhà sách | Hoàn thành | 100% |
-| **Bài 3** | Hệ thống MDI Quản lý Bệnh viện & Async | Hoàn thành | 90% |
-| **Bài 4** | BẢNG ĐIỀU KHIỂN THỐNG KÊ DOANH THU  | Hoàn thành | 90% |
-| **Bài 5** | MÔ PHỎNG GIÁM SÁT TỶ GIÁ TÀI CHÍNH | Hoàn thành | 90% |
+| **Bài 1** | Quản lý Dịch vụ Phòng Gym & Hội viên | Hoàn thành | 99% |
+| **Bài 2** | Báo cáo & Lưu trữ Tài liệu Nhà sách | Hoàn thành | 99% |
+| **Bài 3** | Hệ thống MDI Quản lý Bệnh viện & Async | Hoàn thành | 99% |
+| **Bài 4** | BẢNG ĐIỀU KHIỂN THỐNG KÊ DOANH THU  | Hoàn thành | 99% |
+| **Bài 5** | MÔ PHỎNG GIÁM SÁT TỶ GIÁ TÀI CHÍNH | Hoàn thành | 99% |
 
 
 ---
@@ -30,13 +30,12 @@
 false`), Data Binding 2 chiều với `BindingSource`, Validation với `ErrorProvider`.
 * **Hình ảnh minh họa Giao diện:**
 
-<img width="1083" height="671" alt="bai1giaodien" src="https://github.com/user-attachments/assets/6c90e8a8-f107-446b-97d5-ce1a1fd745b4" />
-
+![Giao diện chính Bài 1](docs/bai1giaodien.png)
 
 *Mô tả: Giao diện chính hiển thị DataGridView và đồng bộ dữ liệu 2 chiều lên các
 TextBox.*
 
-<img width="1083" height="672" alt="bai1valid" src="https://github.com/user-attachments/assets/bf131621-dda8-46e8-a024-8b6217ee3a0f" />
+![Bắt lỗi Validation Bài 1](docs/bai1valid.png)
 
 *Mô tả: Kiểm tra hợp lệ dữ liệu nhập vào bằng ErrorProvider khi nhấn Thêm mới.*
 
